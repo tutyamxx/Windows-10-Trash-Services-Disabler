@@ -1,4 +1,4 @@
-# Windows-10-Trash-Services-Disabler
+# Windows 10 Trash Services Disabler
 
 * Batch script to disable all trash Windows 10 services that run for no reason, clogging the resources.
 * I made this to reduce my time disabling them individually.
